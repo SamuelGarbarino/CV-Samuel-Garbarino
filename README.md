@@ -4,7 +4,7 @@ Questo repository contiene il mio curriculum vitae aggiornato.
 
 ## Download
 
-- [Scarica CV (PDF)](./CV Samuel Garbarino.pdf)
+- [Scarica CV (PDF)](./CV-Samuel-Garbarino.pdf)
 
 ---
 
